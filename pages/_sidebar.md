@@ -4,4 +4,4 @@
   * [OpenShift v3 Playground](all-in-one-openshift-playground.md)
   * [OpenShift v3.11的填坑之旅](openshift-v3-trap-and-pitfalls.md)
   * [OpenShift v4 Playground](all-in-one-openshift-v4-playground.md)
-  * OpenShift v4的填坑之旅
+  * [OpenShift v4的填坑之旅](openshift-v4-trap-and-pitfalls)
