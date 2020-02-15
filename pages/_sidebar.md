@@ -7,7 +7,7 @@
   * [OpenShift v4的填坑之旅](openshift-v4-trap-and-pitfalls)
 * [网络篇](k8s-net.md)
   * [从docker0开始](k8s-net-docker0.md)
-  * 模拟Docker网络
+  * [模拟Docker网络](k8s-net-mimic-docker.md)
   * 认识CNI
   * 将CNI用于容器
   * 自己动手写CNI插件(上)
